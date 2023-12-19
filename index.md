@@ -2,9 +2,16 @@
 title: Welcome to my blog
 ---
 # this is my first try
-nihao
-'''
--[] nihao
-'''
+两情若是长久时，又岂在朝朝暮暮。
+- [ ] 嫦娥与后羿
+- [x] 牛郎与织女
+- [ ] 贾宝玉和林黛玉
+- [ ] 白娘子和许仙
+```
+月落乌啼霜满天，江枫渔火对愁眠
+释：月亮已落下，乌鸦啼叫寒气漫天，对着江边枫树和渔火忧愁而眠。
+解：描写客船夜泊者对江南秋夜的感受，表达羁旅之思，身处乱世尚无归宿的顾虑，写愁的代表作。
+```
+![Image of Yaktocat](http://octodex.github.com/images/yaktocat.png)
 
 
